@@ -26,7 +26,7 @@ pip install -r requirements.txt
    - Extract the ZIP file and locate the HTML file (usually named `memories_history.html`)
 
 2. **Configure the script:**
-   - Open `snapchat_memories_downloader.py` in a text editor
+   - Open `main.py` in a text editor
    - Update the following variables at the top of the file:
      - `html_file_path`: Path to your Snapchat memories HTML file
      - `output_dir`: Directory where you want to save downloaded media files
